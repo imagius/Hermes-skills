@@ -2,7 +2,7 @@
 name: spec-driven
 description: "Use when a plan needs a project constitution or converge."
 version: 1.0.0
-author: Hermes Agent
+author: Justin Tutterow
 license: MIT
 platforms: [linux, macos, windows]
 metadata:

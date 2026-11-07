@@ -2,7 +2,7 @@
 name: short-form-video
 description: "Use when rendering vertical short video with captions."
 version: 1.0.0
-author: Hermes Agent
+author: Justin Tutterow
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
